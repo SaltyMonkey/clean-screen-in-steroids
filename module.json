@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "clean-screen-in-steroids",
+    "options": {
+        "cliName": "CSIS",
+        "guiName": "Clean screen in steroids"
+    },
+    "author": "SaltyMonkey",
+    "description": "Removing effects around screen at high graphic presets in steroids.",
+    "servers": ["https://raw.githubusercontent.com/SaltyMonkey/clean-screen-in-steroids/master/"],
+    "supportUrl": "https://github.com/SaltyMonkey/clean-screen-in-steroids/issues"
+}
